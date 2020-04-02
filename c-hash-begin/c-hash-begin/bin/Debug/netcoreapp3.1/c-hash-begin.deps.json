@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "c-hash-begin/1.0.0": {
+        "runtime": {
+          "c-hash-begin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c-hash-begin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

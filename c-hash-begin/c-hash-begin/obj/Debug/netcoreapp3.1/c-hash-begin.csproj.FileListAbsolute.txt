@@ -1,0 +1,12 @@
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/bin/Debug/netcoreapp3.1/c-hash-begin.deps.json
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/bin/Debug/netcoreapp3.1/c-hash-begin.runtimeconfig.json
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/bin/Debug/netcoreapp3.1/c-hash-begin.runtimeconfig.dev.json
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/bin/Debug/netcoreapp3.1/c-hash-begin.dll
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/bin/Debug/netcoreapp3.1/c-hash-begin.pdb
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/Debug/netcoreapp3.1/c-hash-begin.csprojAssemblyReference.cache
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/Debug/netcoreapp3.1/c-hash-begin.csproj.CoreCompileInputs.cache
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/Debug/netcoreapp3.1/c-hash-begin.AssemblyInfoInputs.cache
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/Debug/netcoreapp3.1/c-hash-begin.AssemblyInfo.cs
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/Debug/netcoreapp3.1/c-hash-begin.dll
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/Debug/netcoreapp3.1/c-hash-begin.pdb
+/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/Debug/netcoreapp3.1/c-hash-begin.genruntimeconfig.cache
