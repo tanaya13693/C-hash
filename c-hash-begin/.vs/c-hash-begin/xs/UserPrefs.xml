@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{3760F4EC-4A7E-47B0-9340-DD51A0462189}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../README.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="c-hash-begin/Program.cs">
     <Files>
       <File FileName="c-hash-begin/Program.cs" Line="16" Column="1" />
-      <File FileName="../README.md" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node />
+          <Node name="c-hash-begin" expanded="True">
+            <Node name="c-hash-begin" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
