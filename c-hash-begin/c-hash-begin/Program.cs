@@ -7,6 +7,9 @@ namespace c_hash_begin
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Hello World2");
+
         }
     }
 }

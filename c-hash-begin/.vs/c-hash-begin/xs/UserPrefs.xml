@@ -1,16 +1,13 @@
 ﻿<Properties StartupConfiguration="{3760F4EC-4A7E-47B0-9340-DD51A0462189}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="c-hash-begin/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../README.md">
     <Files>
-      <File FileName="c-hash-begin/Program.cs" Line="1" Column="1" />
+      <File FileName="c-hash-begin/Program.cs" Line="16" Column="1" />
+      <File FileName="../README.md" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="c-hash-begin" expanded="True">
-            <Node name="c-hash-begin" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -22,7 +19,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.c-hash-begin PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint hitAction="PrintExpression" traceExpression="Reached!" file="/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/Program.cs" relfile="c-hash-begin/Program.cs" line="12" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
