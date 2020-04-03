@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/c-hash-begin.csproj": {}
+    "/Users/tanaya13693/Desktop/Projects/Csharp/c-hash-begin/c-hash-begin/c-hash-begin.csproj": {}
   },
   "projects": {
-    "/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/c-hash-begin.csproj": {
+    "/Users/tanaya13693/Desktop/Projects/Csharp/c-hash-begin/c-hash-begin/c-hash-begin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/c-hash-begin.csproj",
+        "projectUniqueName": "/Users/tanaya13693/Desktop/Projects/Csharp/c-hash-begin/c-hash-begin/c-hash-begin.csproj",
         "projectName": "c-hash-begin",
-        "projectPath": "/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/c-hash-begin.csproj",
+        "projectPath": "/Users/tanaya13693/Desktop/Projects/Csharp/c-hash-begin/c-hash-begin/c-hash-begin.csproj",
         "packagesPath": "/Users/tanaya13693/.nuget/packages/",
-        "outputPath": "/Users/tanaya13693/Desktop/C-hash/c-hash-begin/c-hash-begin/obj/",
+        "outputPath": "/Users/tanaya13693/Desktop/Projects/Csharp/c-hash-begin/c-hash-begin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tanaya13693/.config/NuGet/NuGet.Config"
