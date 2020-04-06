@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{EDF433F4-61FE-40C6-A32E-AD164F2FEFDD}|Default">
-  <MonoDevelop.Ide.ItemProperties.DataDrivenASP FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataDrivenASP/Startup.cs">
+    <Files>
+      <File FileName="DataDrivenASP/Controllers/HomeController.cs" Line="16" Column="30" />
+      <File FileName="DataDrivenASP/Controllers/HelloWorldController.cs" Line="28" Column="1" />
+      <File FileName="DataDrivenASP/Startup.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataDrivenASP" expanded="True">
+            <Node name="DataDrivenASP" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DataDrivenASP FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
