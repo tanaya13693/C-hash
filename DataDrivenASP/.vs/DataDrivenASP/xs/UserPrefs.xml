@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{EDF433F4-61FE-40C6-A32E-AD164F2FEFDD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataDrivenASP/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataDrivenASP/Properties/launchSettings.json">
     <Files>
-      <File FileName="DataDrivenASP/Controllers/HomeController.cs" Line="16" Column="30" />
-      <File FileName="DataDrivenASP/Controllers/HelloWorldController.cs" Line="28" Column="1" />
-      <File FileName="DataDrivenASP/Startup.cs" Line="56" Column="1" />
+      <File FileName="DataDrivenASP/Startup.cs" Line="43" Column="18" />
+      <File FileName="DataDrivenASP/Controllers/MoviesController.cs" Line="57" Column="82" />
+      <File FileName="DataDrivenASP/Data/MvcMovieContext.cs" Line="1" Column="1" />
+      <File FileName="DataDrivenASP/Models/Movie.cs" Line="1" Column="1" />
+      <File FileName="DataDrivenASP/appsettings.json" Line="13" Column="2" />
+      <File FileName="DataDrivenASP/Migrations/20200411003713_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="DataDrivenASP/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,8 +15,15 @@
           <Node name="DataDrivenASP" expanded="True">
             <Node name="DataDrivenASP" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Movies" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -21,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DataDrivenASP FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.DataDrivenASP PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

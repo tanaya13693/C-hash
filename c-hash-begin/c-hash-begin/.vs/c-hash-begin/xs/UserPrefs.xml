@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{912E0F9B-ED1D-4FC1-999B-3286654353BB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Program.cs" Line="15" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="c-hash-begin" selected="True" />
+          <Node name="c-hash-begin" expanded="True" selected="True">
+            <Node name="c-hash-begin" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
