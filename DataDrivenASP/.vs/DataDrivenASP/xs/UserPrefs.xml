@@ -1,13 +1,9 @@
 ﻿<Properties StartupConfiguration="{EDF433F4-61FE-40C6-A32E-AD164F2FEFDD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataDrivenASP/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataDrivenASP/Views/Movies/Index.cshtml">
     <Files>
-      <File FileName="DataDrivenASP/Startup.cs" Line="43" Column="18" />
-      <File FileName="DataDrivenASP/Controllers/MoviesController.cs" Line="57" Column="82" />
-      <File FileName="DataDrivenASP/Data/MvcMovieContext.cs" Line="1" Column="1" />
-      <File FileName="DataDrivenASP/Models/Movie.cs" Line="1" Column="1" />
-      <File FileName="DataDrivenASP/appsettings.json" Line="13" Column="2" />
-      <File FileName="DataDrivenASP/Migrations/20200411003713_InitialCreate.cs" Line="1" Column="1" />
-      <File FileName="DataDrivenASP/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="DataDrivenASP/Views/Shared/_Layout.cshtml" Line="17" Column="46" />
+      <File FileName="DataDrivenASP/Controllers/MoviesController.cs" Line="21" Column="1" />
+      <File FileName="DataDrivenASP/Views/Movies/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,13 +12,13 @@
             <Node name="DataDrivenASP" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
-              </Node>
               <Node name="Views" expanded="True">
-                <Node name="Movies" expanded="True" />
+                <Node name="Movies" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>
